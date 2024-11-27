@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Biosphere3-1.0";
 const contentToCache = [
-    "Build/webgl_11.20.loader.js",
-    "Build/webgl_11.20.framework.js.unityweb",
-    "Build/webgl_11.20.data.unityweb",
-    "Build/webgl_11.20.wasm.unityweb",
+    "Build/webgl_aeon.loader.js",
+    "Build/webgl_aeon.framework.js.unityweb",
+    "Build/webgl_aeon.data.unityweb",
+    "Build/webgl_aeon.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
